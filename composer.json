@@ -1,7 +1,9 @@
 {
     "name": "rosiefaulkner/dashboard",
+    "description": "analytics dashboard",
     "require": {
         "slim/slim": "^4.0",
-        "slim/http": "^1.0"
+        "slim/http": "^1.0",
+        "google/apiclient": "^2.0"
     }
 }
