@@ -22,9 +22,12 @@
         }
     ],
     "require": {
-        "ext-json": "*",
-        "monolog/monolog": "^2.0",
         "php": "^7.2",
+        "ext-json": "*",
+        "google/apiclient": "^2.0",
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "^6.5",
+        "monolog/monolog": "^2.0",
         "php-di/php-di": "^6.1",
         "slim/psr7": "^1.1",
         "slim/slim": "^4.5"
