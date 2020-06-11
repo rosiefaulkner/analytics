@@ -1,0 +1,7 @@
+{
+    "name": "rosiefaulkner/dashboard",
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/http": "^1.0"
+    }
+}
